@@ -1,0 +1,4 @@
+Model,Accuracy,Vectorization,Type
+Naive Bayes (BoW),100.00%,Bag of Words,Traditional ML
+Logistic Regression (TF-IDF),100.00%,TF-IDF (unigrams+bigrams),Traditional ML
+LSTM (Sequences),100.00%,Tokenizer + Padding,Deep Learning / Sequence

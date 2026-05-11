@@ -1,0 +1,55 @@
+SAMPLE PREDICTIONS - LSTM MODEL
+=================================================================
+
+[1] CORRECT
+Text      : like new payment easy use ticket number
+True Label: positive
+Predicted : positive
+
+[2] CORRECT
+Text      : great service clear communication support team
+True Label: positive
+Predicted : positive
+
+[3] CORRECT
+Text      : refund still pending experience frustrating
+True Label: negative
+Predicted : negative
+
+[4] CORRECT
+Text      : app crashes whenever try use analytics
+True Label: negative
+Predicted : negative
+
+[5] CORRECT
+Text      : response team helpful professional
+True Label: positive
+Predicted : positive
+
+[6] CORRECT
+Text      : someone explain difference between plans
+True Label: neutral
+Predicted : neutral
+
+[7] CORRECT
+Text      : like new video call easy use
+True Label: positive
+Predicted : positive
+
+[8] CORRECT
+Text      : like new report download easy use
+True Label: positive
+Predicted : positive
+
+[9] CORRECT
+Text      : someone explain difference between plans
+True Label: neutral
+Predicted : neutral
+
+[10] CORRECT
+Text      : understand warranty terms product
+True Label: neutral
+Predicted : neutral
+
+Overall: 10/10 correct in this sample
+LSTM Test Accuracy: 100.00%
