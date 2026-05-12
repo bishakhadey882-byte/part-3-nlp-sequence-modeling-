@@ -9,7 +9,7 @@
 Build a complete NLP pipeline on a customer support text dataset. Compare traditional text vectorization with a sequence-based deep learning model (LSTM) for sentiment classification.
 
 ## Dataset
-- **Source:** Synthetic Customer Support Text Classification Dataset 
+- **Source:** Synthetic Customer Support Text Classification Dataset ( https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJIV-wBvUYs?usp=sharing )
 - **Total Records:** 1,500 customer support messages
 - **Columns:** ticket_id, channel, customer_message, sentiment_label, word_count, urgent_flag
 - **Target:** `sentiment_label` → positive / negative / neutral
